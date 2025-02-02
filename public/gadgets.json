@@ -1,0 +1,265 @@
+[
+  {
+    "product_id": 201,
+    "product_title": "Galaxy Ultra 5G",
+    "product_image": "https://i.ibb.co.com/3YBynY8R/images-1.jpg",
+    "category": "Phones",
+    "price": 1199.99,
+    "description": "A flagship smartphone with an ultra-smooth display, powerful camera, and long battery life.",
+    "Specification": [
+      "6.8-inch Dynamic AMOLED 120Hz Display",
+      "Snapdragon 8 Gen 2 Processor",
+      "108MP Triple Camera System",
+      "5000mAh Battery with 45W Fast Charging"
+    ],
+    "availability":"in Stock",
+    "rating": 4.8
+  },
+  {
+    "product_id": 202,
+    "product_title": "iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/mr9pXLkW/images.jpg",
+    "category": "Phones",
+    "price": 1299.99,
+    "description": "The latest iPhone with an A17 Bionic chip, ProMotion display, and improved battery life.",
+    "Specification": [
+      "6.7-inch Super Retina XDR Display",
+      "A17 Bionic Chip",
+      "48MP Main Camera with Cinematic Mode",
+      "Fast Wireless Charging"
+    ],
+    "availability": "in Stock",
+    "rating": 4.9
+  },
+  {
+    "product_id": 203,
+    "product_title": "Pixel 8 Pro",
+    "product_image": "https://i.ibb.co.com/gbDsD89C/samsung-galaxy-s21-ultra-5g.jpg",
+    "category": "Phones",
+    "price": 999.99,
+    "description": "Google’s premium smartphone with the latest AI features and a powerful camera.",
+    "Specification": [
+      "6.7-inch OLED Display 120Hz",
+      "Google Tensor G3 Chip",
+      "50MP + 48MP Dual Camera",
+      "Adaptive Battery Lasts Over 24 Hours"
+    ],
+    "availability": "in Stock",
+    "rating": 4.7
+  },
+  {
+    "product_id": 204,
+    "product_title": "MacBook Pro M3",
+    "product_image": "https://i.ibb.co.com/Y98HjM0/macbook.jpg",
+    "category": "Laptops",
+    "price": 2499.99,
+    "description": "A powerful MacBook Pro with the latest M3 chip for high-performance computing.",
+    "Specification": [
+      "16-inch Liquid Retina XDR Display",
+      "Apple M3 Pro Chip",
+      "32GB Unified Memory",
+      "1TB SSD Storage"
+    ],
+    "availability": "in Stock",
+    "rating": 4.9
+  },
+  {
+    "product_id": 205,
+    "product_title": "Dell XPS 15",
+    "product_image": "https://i.ibb.co.com/HvBLwp8/dell.jpg",
+    "category": "Laptops",
+    "price": 1899.99,
+    "description": "A sleek and powerful laptop with a stunning 4K display and high-performance processor.",
+    "Specification": [
+      "15.6-inch 4K OLED Display",
+      "Intel Core i9 13th Gen",
+      "32GB DDR5 RAM",
+      "1TB NVMe SSD"
+    ],
+    "availability": "in Stock",
+    "rating": 4.8
+  },
+  {
+    "product_id": 206,
+    "product_title": "ASUS ROG Zephyrus G15",
+    "product_image": "https://i.ibb.co.com/k6sV7pxP/Asus.jpg",
+    "category": "Laptops",
+    "price": 1599.99,
+    "description": "A high-end gaming laptop with an ultra-fast display and powerful RTX graphics.",
+    "Specification": [
+      "15.6-inch QHD 165Hz Display",
+      "AMD Ryzen 9 7940HS",
+      "NVIDIA RTX 4070",
+      "1TB SSD + 16GB RAM"
+    ],
+    "availability": "in Stock",
+    "rating": 4.7
+  },
+  {
+    "product_id": 207,
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co.com/tp8tkXZ1/65585d8185f7a70bf67a0617-szbxd-smart-watch-for-kids-kids-smart.jpg",
+    "category": "Smart Watches",
+    "price": 529.99,
+    "description": "The latest Apple Watch with advanced health tracking and a new ultra-bright display.",
+    "Specification": [
+      "Always-On Retina Display",
+      "Blood Oxygen & ECG Monitoring",
+      "Crash Detection & Emergency SOS",
+      "Up to 18 Hours Battery Life"
+    ],
+    "availability": "in Stock",
+    "rating": 4.8
+  },
+  {
+    "product_id": 208,
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co.com/S7QD3qd7/lmaiwescgjgvsdga.jpg",
+    "category": "Smart Watches",
+    "price": 429.99,
+    "description": "A premium smartwatch with a rotating bezel and advanced health monitoring features.",
+    "Specification": [
+      "1.5-inch Super AMOLED Display",
+      "Sleep & Stress Tracking",
+      "Samsung BioActive Sensor",
+      "Up to 40 Hours Battery Life"
+    ],
+    "availability": "in Stock",
+    "rating": 4.7
+  },
+  {
+    "product_id": 209,
+    "product_title": "Garmin Fenix 7X",
+    "product_image": "https://i.ibb.co.com/1YHLBV8k/men-smart-watch.png",
+    "category": "Smart Watches",
+    "price": 699.99,
+    "description": "An advanced GPS smartwatch with solar charging and rugged durability.",
+    "Specification": [
+      "1.4-inch Solar-Charged Display",
+      "Multi-Sport Tracking",
+      "Built-in GPS & Altimeter",
+      "Up to 37 Days Battery Life"
+    ],
+    "availability": "in Stock",
+    "rating": 4.9
+  },
+  {
+    "product_id": 210,
+    "product_title": "Lenovo Legion 5 Pro",
+    "product_image": "https://i.ibb.co.com/HvBLwp8/dell.jpg",
+    "category": "Laptops",
+    "price": 1499.99,
+    "description": "A powerful gaming laptop with a high-refresh display and RTX graphics.",
+    "Specification": [
+      "16-inch WQXGA 165Hz Display",
+      "AMD Ryzen 7 6800H",
+      "NVIDIA RTX 3060",
+      "512GB SSD + 16GB RAM"
+    ],
+    "availability": "Stock Out",
+    "rating": 4.6
+  },
+  {
+    "product_id": 301,
+    "product_title": "Apple MacBook Pro 16-inch",
+    "product_image": "https://i.ibb.co.com/k6sV7pxP/Asus.jpg",
+    "category": "Laptops",
+    "price": 2499.99,
+    "description": "A high-performance laptop with M2 Max chip for professionals and creatives.",
+    "Specification": [
+      "16-inch Liquid Retina XDR Display",
+      "Apple M2 Max Chip",
+      "32GB Unified Memory",
+      "1TB SSD Storage",
+      "Up to 22 Hours Battery Life"
+    ],
+    "availability": "in Stock",
+    "rating": 4.9
+  },
+  {
+    "product_id": 302,
+    "product_title": "Dell XPS 15",
+    "product_image": "https://i.ibb.co.com/HvBLwp8/dell.jpg",
+    "category": "Laptops",
+    "price": 1899.99,
+    "description": "A sleek and powerful ultrabook with stunning OLED display and premium build quality.",
+    "Specification": [
+      "15.6-inch 4K OLED Touch Display",
+      "Intel Core i9-13900H",
+      "32GB DDR5 RAM",
+      "1TB NVMe SSD",
+      "NVIDIA GeForce RTX 4060"
+    ],
+    "availability": "in Stock",
+    "rating": 4.8
+  },
+  {
+    "product_id": 303,
+    "product_title": "HP Spectre x360 14",
+    "product_image": "https://i.ibb.co.com/k6sV7pxP/Asus.jpg",
+    "category": "Laptops",
+    "price": 1599.99,
+    "description": "A 2-in-1 convertible laptop with a premium design and long battery life.",
+    "Specification": [
+      "13.5-inch 3K OLED Touchscreen",
+      "Intel Core i7-13700H",
+      "16GB LPDDR4x RAM",
+      "1TB SSD",
+      "360-degree Hinge"
+    ],
+    "availability": "in Stock",
+    "rating": 4.7
+  },
+  {
+    "product_id": 304,
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/HvBLwp8/dell.jpg",
+    "category": "Laptops",
+    "price": 2199.99,
+    "description": "A compact gaming laptop with powerful performance and a high-refresh-rate display.",
+    "Specification": [
+      "14-inch QHD+ 165Hz Display",
+      "AMD Ryzen 9 7940HS",
+      "32GB DDR5 RAM",
+      "1TB NVMe SSD",
+      "NVIDIA GeForce RTX 4070"
+    ],
+    "availability": "in Stock",
+    "rating": 4.8
+  },
+  {
+    "product_id": 305,
+    "product_title": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "product_image": "https://i.ibb.co.com/k6sV7pxP/Asus.jpg",
+    "category": "Laptops",
+    "price": 1799.99,
+    "description": "A business-class ultrabook known for durability, security, and performance.",
+    "Specification": [
+      "14-inch 2.8K OLED Display",
+      "Intel Core i7-1365U",
+      "16GB LPDDR5 RAM",
+      "1TB SSD",
+      "Fingerprint Scanner & Face Unlock"
+    ],
+    "availability": "in Stock",
+    "rating": 4.9
+  },
+  {
+    "product_id": 306,
+    "product_title": "Microsoft Surface Laptop 5",
+     
+    "product_image": "https://i.ibb.co.com/HvBLwp8/dell.jpg",
+    "category": "Laptops",
+    "price": 1399.99,
+    "description": "A lightweight, stylish laptop with a touchscreen and all-day battery life.",
+    "Specification": [
+      "13.5-inch PixelSense Touch Display",
+      "Intel Core i7-1265U",
+      "16GB LPDDR5 RAM",
+      "512GB SSD",
+      "Windows Hello Face Recognition"
+    ],
+    "availability": "in Stock",
+    "rating": 4.6
+  }
+]
